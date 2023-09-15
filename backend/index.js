@@ -6,11 +6,6 @@ const router = require('./routes/router')
 
 const app = express()
 
-/* let obj = {
-    Client: "Alice",
-    City: "London",
-    Interests: ["football", "hiking", "gym"]
-  }; */
 
 
 
